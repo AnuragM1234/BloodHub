@@ -2,7 +2,8 @@
 
 BloodHub is a full stack web platform designed to connect blood donors and recipients, streamlining the process of finding and donating blood. The site allows donors to register and offer blood, while recipients can search for available blood types and request donations.
 
-Key Features
+## Key Features:
+
 🩸 Users can register as either donors or recipients to participate in the blood donation process.
 
 🩸 Main pages: Home, About Us, Login/Registration, Donate, Recent Donors, Blog, Contact Us.
@@ -15,7 +16,7 @@ Key Features
 
 🩸 Automatic notifications are sent to donors and recipients about successful matches and upcoming donations.
 
-#Screenshots
+# Screenshots:
 
 ![image](https://github.com/user-attachments/assets/aac5f08a-75c1-4458-85be-717ce82bb951)
 
