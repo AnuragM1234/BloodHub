@@ -30,6 +30,11 @@ BloodHub is a full stack web platform designed to connect blood donors and recip
 
 ![image](https://github.com/user-attachments/assets/7d2e5283-a368-4cd7-ad91-f15800e0ab30) \\Dashboard Page
 
+![image](https://github.com/user-attachments/assets/f96d4d9d-e328-4715-b022-34fbeb2679a7) \\ Check Eligibility
+
+![image](https://github.com/user-attachments/assets/585bb7a8-4942-4395-9141-08b187ea14bc)
+
+
 
 This is the Home page
 
